@@ -112,6 +112,7 @@ Brindar a los usuarios finales una herramienta informática sencilla, autónoma 
 
 ### 5. Editar y Eliminar Registros  
 - **Para Editar:** Escribe los nuevos datos en los campos del formulario correspondiente (Usuarios o Tareas), haz clic en el botón **Editar Usuario** o **Editar Tarea**, e ingresa el ID exacto del registro a modificar cuando el sistema te lo solicite.
+
 **Usuario**
 
 <img width="400" height="323" alt="image" src="https://github.com/user-attachments/assets/518e0ed2-1dc9-42c6-9823-1833bbaf08da" />
@@ -125,6 +126,7 @@ Brindar a los usuarios finales una herramienta informática sencilla, autónoma 
 <img width="470" height="208" alt="image" src="https://github.com/user-attachments/assets/b986ebcb-5820-4030-a9f2-1450e68158eb" />
 
 - **Para Eliminar:** Haz clic en **Eliminar Usuario** o **Eliminar Tarea** e introduce el número de ID que deseas borrar del sistema.
+
 **Usuario**
 
 <img width="313" height="237" alt="image" src="https://github.com/user-attachments/assets/2e842dd3-65f6-4382-a8db-a18ea611c94d" />
